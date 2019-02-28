@@ -10,4 +10,4 @@ Code for post process, includes smooth(smooth.py) and binary(binary.py), run mai
 Example data -- https://project.inria.fr/aerialimagelabeling/<br>
 Also providing a short code (/data/segmentation256.py) to cut TIFF images to size 256*256.<br>
 - **Result**<br>
-Acc. -- 94%
+Acc. -- 94% IOU -- 91
